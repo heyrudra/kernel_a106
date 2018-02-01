@@ -8,6 +8,8 @@
   
   * Lineage OS 14.1 Unofficial
 
+  * Halium OS 7.1 Unofficial
+
 # Compilation guide:
   
   * First, made a folder for the kernel and enter to it:
@@ -18,7 +20,7 @@
 
   * Then, clone the project: 
 
-        $ git clone -b cm-14.1 https://github.com/GODz-Android-Dev/DareDevil_a106.git
+        $ git clone -b halium-7.1 https://github.com/maharudra108/kernel_a106.git
 
 
   * And for compile:
